@@ -1,4 +1,4 @@
-# mansur
+# ICP_1
 Neural Network Assignment ICP_1 Programs. These are sample programs to showcase python basics like:
 
 control statements (if, elif, else),
